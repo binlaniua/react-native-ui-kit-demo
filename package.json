@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start"
+    "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "react-native": "^0.21.0"
+    "react-native": "^0.21.0",
+    "iflux-native": "*"
   }
 }

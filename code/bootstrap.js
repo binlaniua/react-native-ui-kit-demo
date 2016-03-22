@@ -18,7 +18,7 @@ class Bootstrap extends React.Component {
   render () {
     return (
       <UIApp>
-        <UIRoute routerMap={RouteMapper}></UIRoute>
+        <UIRoute start="Home" routerMap={RouteMap}></UIRoute>
       </UIApp>
     );
   }

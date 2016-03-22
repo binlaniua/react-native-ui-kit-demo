@@ -1,8 +1,12 @@
 
 
-import ButtonView from '../code/button';
+import Button from './button';
+
+
+import Home from './home';
 
 
 export default {
-  ButtonView
+  Home,
+  Button,
 }

@@ -1,7 +1,7 @@
 import React, {StyleSheet, View} from 'react-native';
 
 import {
-  QMScene
+  UIScene,
 } from 'ui-kit';
 
 class ButtonView extends React.Component {
@@ -15,10 +15,10 @@ class ButtonView extends React.Component {
 
   render () {
     return (
-      <QMScene
+      <UIScene
         header="按钮"
         hasBack={true}>
-      </QMScene>
+      </UIScene>
     );
   }
 }

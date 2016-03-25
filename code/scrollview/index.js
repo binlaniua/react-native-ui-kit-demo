@@ -23,6 +23,7 @@ class ScrollView extends React.Component {
     return (
       <UIScene
         header="ScrollView"
+        hasBack={true}
         style={styles.container}>
         <Card title="Advance ScrollView">
           <Text>state => {this.state.t}</Text>

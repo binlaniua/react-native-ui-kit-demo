@@ -6,6 +6,7 @@ import {
 
 import RouteMap from './route';
 
+console.disableYellowBox = true;
 class Bootstrap extends React.Component {
 
   static defaultProps = {};

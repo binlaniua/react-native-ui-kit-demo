@@ -1,10 +1,7 @@
-![Image text](https://raw.githubusercontent.com/brothers-js/react-native-ui-kit-demo/master/screesnopshot/button.png)
+<img src="https://raw.githubusercontent.com/brothers-js/react-native-ui-kit-demo/master/screesnopshot/button.png" width="300">
 
+<img src="https://raw.githubusercontent.com/brothers-js/react-native-ui-kit-demo/master/screesnopshot/tabbar.png" width="300">
 
-![Image text](https://raw.githubusercontent.com/brothers-js/react-native-ui-kit-demo/master/screesnopshot/tabbar.png)
+<img src="https://raw.githubusercontent.com/brothers-js/react-native-ui-kit-demo/master/screesnopshot/scrollview.png" width="300">
 
-
-![Image text](https://raw.githubusercontent.com/brothers-js/react-native-ui-kit-demo/master/screesnopshot/scrollview.png)
-
-
-![Image text](https://raw.githubusercontent.com/brothers-js/react-native-ui-kit-demo/master/screesnopshot/form.png)
+<img src="https://raw.githubusercontent.com/brothers-js/react-native-ui-kit-demo/master/screesnopshot/form.png" width="300">

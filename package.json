@@ -8,6 +8,8 @@
   "dependencies": {
     "react-native": "^0.21.0",
     "iflux-native": "*",
-    "immutable": "*"
+    "immutable": "*",
+    "react-timer-mixin": "*",
+    "react-mixin": "*"
   }
 }

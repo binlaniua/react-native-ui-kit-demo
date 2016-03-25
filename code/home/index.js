@@ -10,6 +10,7 @@ class Home extends React.Component {
     controlList: [
       {name: 'Button', nextScene: 'Button'},
       {name: 'TabBar', nextScene: 'TabBar'},
+      {name: 'ScrollView', nextScene: 'ScrollView'},
       {name: 'Form', nextScene: 'Form'},
       {name: 'Popover', nextScene: 'Popover'},
       {name: 'Overlay', nextScene: 'Overlay'},

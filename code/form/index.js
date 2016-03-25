@@ -50,6 +50,12 @@ class FromView extends React.Component {
             value="文本内容"
           />
         </Card>
+
+        <Card title="Select && Multi Select">
+          <UIForm.Text
+            label="选择"
+          />
+        </Card>
       </UIScene>
     );
   }
